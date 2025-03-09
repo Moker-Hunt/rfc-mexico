@@ -31,7 +31,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Mulish', sans-serif;
     margin: auto;
     padding: 0;
     background: linear-gradient(180deg, #4b6053 0%, #3d534b 100%);
@@ -398,32 +398,32 @@ body {
 }
 
 .info-block ul li strong {
-    color: #F4A261; /* Match the main color scheme */
+    color: #F4A261;
     font-weight: bold;
-    font-size: 1.1em; /* Slightly larger for emphasis */
-    text-decoration: underline; /* Underline for better visibility */
+    font-size: 1.1em;
+    text-decoration: underline;
 }
 
 .info-block ul li {
-    margin-bottom: 10px; /* Space between list items */
-    line-height: 1.5; /* Improved readability */
+    margin-bottom: 10px;
+    line-height: 1.5;
 }
 
 .info-block ol li {
-    margin-bottom: 12px; /* Space between list items */
-    line-height: 1.6; /* Improved readability */
+    margin-bottom: 12px;
+    line-height: 1.6;
 }
 
 .info-block ol li strong {
-    color: #F4A261; /* Maintain the existing color scheme */
+    color: #F4A261;
     font-weight: bold;
-    font-size: 1.25em; /* Slightly larger for better emphasis */
-    text-transform: capitalize; /* Capitalize for a polished look */
-    letter-spacing: 1px; /* Increased letter spacing for better readability */
-    border-bottom: 2px solid #d28444; /* Add a bottom border for emphasis */
-    padding-bottom: 3px; /* Add padding for spacing */
-    background-color: rgba(75, 96, 83, 0.2); /* Light background for emphasis */
-    transition: all 0.3s ease; /* Smooth transition for hover effect */
+    font-size: 1.25em;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #d28444;
+    padding-bottom: 3px;
+    background-color: rgba(75, 96, 83, 0.2);
+    transition: all 0.3s ease;
 }
 
 .link-block {
